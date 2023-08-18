@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
   <a class="header-badge" target="_blank" href="https://yashitav.github.io/YashitaVajpayee.github.io/">
-    <img src="https://img.shields.io/badge/Website-Visit%20Here-red">
+    <img src="https://img.shields.io/badge/Website-red">
   </a>
 </div>   
            
