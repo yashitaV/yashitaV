@@ -1,10 +1,10 @@
 <h1 align="center">Hi👋 I'm Yashita Vajpayee 👩🏻‍💻</a></h1>
 
-<a class="header-badge" target="_blank" href="https://www.linkedin.com/in/yashita-vajpayee/">
+<a align="center" class="header-badge" target="_blank" href="https://www.linkedin.com/in/yashita-vajpayee/">
           <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
 </a>   
-<a class="header-badge" target="_blank" href="https://yashitav.github.io/YashitaVajpayee.github.io/">
-          <img src="[https://img.shields.io/badge/style--5eba0?label=stackoverflow&logo=stackoverflow&style=social](https://img.shields.io/badge/Website-8A2BE2)">
+<a align="center" class="header-badge" target="_blank" href="https://yashitav.github.io/YashitaVajpayee.github.io/">
+         <img alt="Static Badge" src="https://img.shields.io/badge/Website">>
  </a>
     
 <div id="user-content-toc">
