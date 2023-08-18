@@ -1,12 +1,15 @@
 <h1 align="center">Hi👋 I'm Yashita Vajpayee 👩🏻‍💻</a></h1>
 
 <div align='center'>
-[![Website Badge](https://img.shields.io/badge/Website-Visit%20Here-red?style=flat-square&logo=appveyor)](https://yashitav.github.io/YashitaVajpayee.github.io/)
-  
-<a align="center" class="header-badge" target="_blank" href="https://yashitav.github.io/YashitaVajpayee.github.io/">
-         <>
-</a>
- </ul>   
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/yashita-vajpayee/">
+    <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
+  </a>
+  <a class="header-badge" target="_blank" href="https://yashitav.github.io/YashitaVajpayee.github.io/">
+    Website
+  </a>
+</div>
+    
+           
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">"The world is one big Data problem"</h2></summary>
