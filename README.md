@@ -30,6 +30,8 @@
 - 🎯 Currently focusing on enhancing my skills in AutoML and Big data.
 - 📫 Feel free to reach out to me at **yvajpaye@stevens.edu**.
 
+- 👸🏻 Attending vGHC 2023
+
 
 I'm open to collaborations, discussions, and new opportunities! Let's connect✨
 
