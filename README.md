@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋 I'm Yashita Vajpayee 👩🏻‍💻</a></h1>
 
 <div align='center'>
-[![Website Badge](https://img.shields.io/badge/Website-Visit%20Here-red)](https://yashitav.github.io/YashitaVajpayee.github.io/)
+[![Website Badge](https://img.shields.io/badge/Website-Visit%20Here-red?style=flat-square&logo=appveyor)](https://yashitav.github.io/YashitaVajpayee.github.io/)
   
 <a align="center" class="header-badge" target="_blank" href="https://yashitav.github.io/YashitaVajpayee.github.io/">
          <>
