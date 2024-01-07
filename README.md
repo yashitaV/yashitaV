@@ -16,9 +16,8 @@
  </div>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://camo.githubusercontent.com/0f2df9c6430300192232520a10bc3f09066cee3c6f1205da8490ac2b1d69d9e5/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966">
+  <img align="right" height="300" width="400" src="https://drive.google.com/file/d/1dteWTn3gjh2tFG8XpDRLqYnYGj9h_29C/view?usp=sharing">
 </a>
-
 
 
 ### Hi there! 👋 I'm Yashita
@@ -29,9 +28,9 @@
 - 🤖 Passionate about exploring the world of Data Science and Machine Learning. 
 - 🎯 Currently focusing on enhancing my skills in AutoML and Big data.
 - 📫 Feel free to reach out to me at **yvajpaye@stevens.edu**.
+- 👸🏻 Attended vGHC 2023
 
-- 👸🏻 Attending vGHC 2023
-
+#### Don't foreget checkout my projects!
 
 I'm open to collaborations, discussions, and new opportunities! Let's connect✨
 
