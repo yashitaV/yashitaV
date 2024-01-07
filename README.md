@@ -19,7 +19,7 @@
 ### Hi there! 👋 I'm Yashita
 
 - 🎓 Currently doing Master's in Data Science from [Stevens Institute of Technology](https://www.stevens.edu/program/data-science-masters)
-- 💼 Actively seeking full-time opportunities in Data Science roles.
+- 💼 Actively seeking full-time opportunities in Data Science/Data Analyst roles.
 - 🧮 Have Analyst experience and enjoy Mathematics
 - 🤖 Passionate about exploring the world of Data Science and Machine Learning. 
 - 🎯 Currently focusing on enhancing my skills in AutoML and Big data.
