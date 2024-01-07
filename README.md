@@ -15,10 +15,6 @@
   </ul>
  </div>
 
-<a target="_blank" align="center">
-  <img align="right" height="300" width="400" src="https://drive.google.com/file/d/1dteWTn3gjh2tFG8XpDRLqYnYGj9h_29C/view?usp=sharing">
-</a>
-
 
 ### Hi there! 👋 I'm Yashita
 
