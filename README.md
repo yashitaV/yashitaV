@@ -18,15 +18,14 @@
 
 ### Hi there! 👋 I'm Yashita
 
-- 🎓 Currently doing Master's in Data Science from [Stevens Institute of Technology](https://www.stevens.edu/program/data-science-masters)
+- 🎓 Master's in Data Science from [Stevens Institute of Technology](https://www.stevens.edu/program/data-science-masters)
 - 💼 Actively seeking full-time opportunities in Data Science/Data Analyst roles.
 - 🧮 Have Data Analyst experience and enjoy Mathematics
 - 🤖 Passionate about exploring the world of Data Science and Machine Learning. 
-- 🎯 Currently focusing on enhancing my skills in AutoML and Big data.
-- 📫 Feel free to reach out to me at **yvajpaye@stevens.edu**.
+- 📫 Feel free to reach out to me at **yvajpaye@gmail.com**.
 - 👸🏻 Attended vGHC 2023
 
-#### Don't foreget checkout my projects!
+#### Don't forget to check out my projects!
 
 I'm open to collaborations, discussions, and new opportunities! Let's connect✨
 
