@@ -22,7 +22,7 @@
 - 💼 Actively seeking full-time opportunities in Data Science/Data Analyst roles.
 - 🧮 Have Data Analyst experience and enjoy Mathematics
 - 🤖 Passionate about exploring the world of Data Science and Machine Learning. 
-- 📫 Feel free to reach out to me at **yvajpaye@gmail.com**.
+- 📫 Feel free to reach out to me at **yashita241098@gmail.com**.
 - 👸🏻 Attended vGHC 2023
 
 #### Don't forget to check out my projects!
